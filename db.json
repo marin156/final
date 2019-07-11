@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S10",
+      "description": "Samsung Galaxy S10 128GB Dual SIM, bijeli",
+      "category": "uređaj",
+      "image": "s10.jpg",
+      "price": 6.299,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Samsung S10e",
+      "description": "Samsung Galaxy S10e 128GB žuti ",
+      "category": "uređaj",
+      "image": "s10e.jpg",
+      "price": 4.949,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Samsung S9+",
+      "description": "Samsung Galaxy S9+ Dual SIM: zlatni ",
+      "category": "uređaj",
+      "image": "s9+.jpg",
+      "price": 4.499,
+      "quantity": 3
+    },
+    {
+      "id": 4,
+      "name": "iPhone 7 Plus",
+      "description": "Apple iPhone 7 Plus 128GB: dijamantno crni",
+      "category": "uređaj",
+      "image": "s7+.jpg",
+      "price": 4.849,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "name": "Maska",
+      "description": "Preklopna maska za Huawei P Smart 2019: plava",
+      "category": "maskica",
+      "image": "psmartmaska.jpg",
+      "price": 129,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "name": "OnePlus7",
+      "description": "OnePlus 7 Pro 8GB/256GB: sivi",
+      "category": "uređaj",
+      "image": "oneplus7.jpg",
+      "price": 6.299,
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "name": "A70 maska",
+      "description": "Silikonska maskica za Samsung Galaxy A70: prozirna",
+      "category": "maskica",
+      "image": "maskasamsung1.jpg",
+      "price": 89,
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "name": "Acer Tablet",
+      "description": "Acer Iconia One 10 B3-A42 LTE: bijeli",
+      "category": "uređaj",
+      "image": "acericonia.jpg",
+      "price": 1.199,
+      "quantity": 0
+    }
+  ]
+}
